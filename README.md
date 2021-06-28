@@ -17,13 +17,13 @@
 
 ## Expertise - Infrastructure
 <img align="left" alt="netlify" src="https://img.shields.io/badge/netlify-%2330C8C9?logo=netlify&logoColor=white&style=for-the-badge" />
-<img align="left" alt="AZURE" src="https://img.shields.io/badge/microsoft%20azure%20-%230078d4.svg?&style=for-the-badge&logo=microsoftazure&logoColor=%2361DAFB" />
 <img align="left" alt="aws" src="https://img.shields.io/badge/AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
-
+<img align="left" alt="AZURE" src="https://img.shields.io/badge/microsoft%20azure%20-%230078d4.svg?&style=for-the-badge&logo=microsoftazure&logoColor=%2361DAFB" />
 
 <br>
 <br>
 
 ## Connect with me
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/codersrank-%2372a0a8?&style=for-the-badge&logo=codersrank&logoColor=white" />](https://profile.codersrank.io/user/wolfmaster8/)
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/felipelobom/)
 
